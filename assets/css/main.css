@@ -251,12 +251,12 @@ header
 }
 
 .header-area .main-nav {
-  min-height: 80px;
+  min-height: 60px;
   background: transparent;
 }
 
 .header-area .main-nav .logo {
-  line-height: 120px;
+  line-height: 100px;
   color: #fff;
   font-size: 28px;
   font-weight: 700;
@@ -319,7 +319,7 @@ header
 .header-area .main-nav .nav li:last-child a {
   font-size: 14px;
   color: #fff;
-  background-color: #43ba7f;
+  background-color: #0c0fad;
   padding: 10px 20px !important;
   display: inline-block;
   border-radius: 5px;
@@ -742,17 +742,16 @@ banner
   top: 50%;
   transform: translateY(-50%);
 }
-
 .slide-inner .header-text h2 {
   position: relative;
   z-index: 2;
   font-size: 56px;
   color: #fff;
   font-weight: 700;
-  opacity: 1;
   visibility: visible;
   line-height: 70px;
-  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-bottom: 20px;
 }
 
 .slide-inner .header-text .div-dec {
@@ -761,7 +760,6 @@ banner
   border-radius: 3px;
   background-color: #fff;
   margin-bottom: 40px;
-  opacity: 1;
   visibility: visible;
 }
 
