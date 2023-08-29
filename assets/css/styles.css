@@ -457,7 +457,7 @@ section.explore-work .right-content ul li ul.info li span {
 @media (min-width: 576px) {
   section.explore-work .right-content ul li ul.info li span {
     display: inline-block;
-    float: left !important;
+    width: auto;
   }
 }
 
