@@ -319,7 +319,7 @@ header
 .header-area .main-nav .nav li:last-child a {
   font-size: 14px;
   color: #fff;
-  background-color: #0c0fad;
+  background-color: #1d1e74;
   padding: 10px 20px !important;
   display: inline-block;
   border-radius: 5px;
@@ -353,12 +353,12 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #ff511a;
+  color:#1ae07d;
 }
 
 .background-header .main-nav .nav li:hover a,
 .background-header .main-nav .nav li a.active {
-  color: #ff511a;
+  color:#1ae07d;
   opacity: 1;
 }
 
@@ -418,7 +418,7 @@ header
 
 .header-area .main-nav .nav li.has-sub ul li a:hover {
   background: #fff;
-  color: #ff511a!important;
+  color:#1ae07d!important;
   padding-left: 25px;
 }
 
@@ -558,7 +558,7 @@ header
 }
 
 .header-area.header-sticky .nav li a.active {
-  color: #ff511a;
+  color:#1ae07d;
 }
 
 @media (max-width: 1200px) {
@@ -577,7 +577,7 @@ header
   }
   .header-area.header-sticky .nav li a:hover,
   .header-area.header-sticky .nav li a.active {
-    color: #ff511a!important;
+    color: #43ba7f!important;
     opacity: 1;
   }
   .header-area.header-sticky .nav li.search-icon a {
@@ -639,7 +639,7 @@ header
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
-    color: #ff511a!important;
+    color: #1ae07d!important;
   }
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     position: relative;
@@ -745,7 +745,7 @@ banner
 .slide-inner .header-text h2 {
   position: relative;
   z-index: 2;
-  font-size: 56px;
+  font-size: 52px;
   color: #fff;
   font-weight: 700;
   visibility: visible;
@@ -773,7 +773,7 @@ banner
 
 .slide-inner .header-text h2 em {
   font-style: normal;
-  color: #ff511a;
+  color: #1ae07d;
 }
 
 .slide-inner .header-text .buttons {
