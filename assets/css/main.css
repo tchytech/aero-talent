@@ -617,10 +617,10 @@ header
     border-top: 1px solid #eee;
   }
   .header-area.header-sticky .nav {
-    margin-top: 100px !important;
+    margin-top: 80px !important;
   }
   .background-header.header-sticky .nav {
-    margin-top: 80px !important;
+    margin-top: 50px !important;
   }
   .header-area .main-nav .nav li {
     width: 100%;
@@ -745,7 +745,7 @@ banner
 .slide-inner .header-text h2 {
   position: relative;
   z-index: 2;
-  font-size: 52px;
+  font-size: 56px;
   color: #fff;
   font-weight: 700;
   visibility: visible;
