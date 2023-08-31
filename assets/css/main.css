@@ -1046,7 +1046,7 @@ footer ul.info li a {
 }
 
 footer ul.info li a:hover {
-  color: #ff565b;
+  color: #1ae07d;
 }
 
 footer ul.info li:last-child {
@@ -1070,7 +1070,7 @@ footer ul.social-links li a svg {
 }
 
 footer ul.social-links li a:hover {
-  color: #ff565b;
+  color: #1ae07d;
 }
 
 footer ul.social-links li:last-child {
@@ -1109,7 +1109,7 @@ footer form#subscribe button {
 }
 
 footer form#subscribe button:hover {
-  color: #ff565b;
+  color: #1ae07d;
 }
 
 footer .sub-footer {
@@ -1118,15 +1118,20 @@ footer .sub-footer {
 }
 
 footer .sub-footer p a {
-  color: #ff565b;
+  color: #1ae07d;
 }
-
+.fa-arrow-up{
+  padding: 10px;
+  border-radius: 50%;
+  background-color: #1d1e74;
+  color: white;
+}
 footer .sub-footer a.scroll-to-top {
   text-align: center;
   width: 100%;
   display: inline-block;
   font-size: 15px;
-  color: #ff565b;
+  color: #1ae07d;
   -webkit-transition: all .5s;
   transition: all .5s;
 }
@@ -1143,7 +1148,7 @@ footer .sub-footer a.scroll-to-top svg {
 }
 
 footer .sub-footer a.scroll-to-top:hover {
-  color: #ff565b;
+  color: #1ae07d;
 }
 
 /* 
