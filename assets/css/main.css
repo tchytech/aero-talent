@@ -877,11 +877,11 @@ textarea{
    font-size: 16px;
    border-radius: 5px;
  }
- Textarea::placeholder {
+ textarea::placeholder {
   padding-left: 10px;
   padding-top: 10px;
   color: #fff; /* Your preferred color */
-
+ }
 /* 
 ---------------------------------------------
 testimonials
@@ -997,7 +997,9 @@ section.partners .item:hover {
 footer 
 --------------------------------------------- 
 */
-
+footer{
+  background-color: #212741;
+}
 
 /* 
 ---------------------------------------------
@@ -1556,3 +1558,4 @@ body {
   .testimonials .item {
     padding: 50px;
   }
+}
