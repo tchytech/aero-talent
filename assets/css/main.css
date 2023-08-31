@@ -999,13 +999,18 @@ footer
 */
 footer.no-margin-footer {
   margin-top: 60px;
+ 
 }
 
 footer {
-  margin-top: 80px;
+  margin-top: 80px; 
+  padding-top: 1.5em;
+  background-color: #eee;
   text-align: center;
 }
-
+.form{
+  margin-top: 1.5em;
+}
 @media (min-width: 992px) {
   footer {
     text-align: left;
