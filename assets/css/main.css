@@ -98,12 +98,12 @@ body {
 }
 
 ::selection {
-  background: #ff511a;
+  background: #1ae07d;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #ff511a;
+  background: #1ae07d;
   color: #fff;
 }
 
@@ -172,7 +172,7 @@ section {
 .section-heading h6 {
   font-size: 16px;
   text-transform: uppercase;
-  color: #ff511a;
+  color: #1ae07d;
   font-weight: 700;
 }
 
@@ -977,13 +977,13 @@ partners
 section.partners {
   background-color: #212741;
   padding: 80px 0px;
+  height: 150px;
 }
 
 section.partners .item {
   margin: 0px 15px;
   cursor: pointer;
   transition: all .3s;
-
 }
 
 section.partners .item:hover {
@@ -1002,8 +1002,7 @@ footer.no-margin-footer {
  
 }
 
-footer {
-  margin-top: 80px; 
+footer { 
   padding-top: 1.5em;
   background-color: #eee;
   text-align: center;
@@ -1387,7 +1386,7 @@ section.service-details .naccs .menu div {
 }
 
 section.service-details .naccs .menu div.active {
-  color: #ff511a;
+  color: #1ae07d;
 }
 
 section.service-details ul.nacc {
@@ -1514,7 +1513,7 @@ section.map .info-item a {
 }
 
 section.map .info-item a:hover {
-  color: #ff511a;
+  color: #1ae07d;
 }
 
 #contact input {
@@ -1552,7 +1551,7 @@ section.map .info-item a:hover {
 #contact button.orange-button {
   font-size: 14px;
   color: #fff;
-  background-color: #ff511a;
+  background-color: #1ae07d;
   padding: 12px 30px;
   display: inline-block;
   border-radius: 5px;
@@ -1591,12 +1590,6 @@ body {
   }
   .slide-inner .header-text {
     width: 80%;
-  }
-  .simple-cta {
-    text-align: center;
-  }
-  section.simple-cta .buttons {
-    justify-content: center;
   }
   section.about-us .naccs .menu div,
   section.service-details .naccs .menu div {
